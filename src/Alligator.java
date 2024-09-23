@@ -2,12 +2,12 @@
 
 public class Alligator extends VirtualPet {
 
-    private static final int HUNGER_DECREASE = 10;
+    private static final int HUNGER_DECREASE = 15;
     private static final int HUNGER_INCREASE = 10;
     private static final int ENERGY_INCREASE = 10;
-    private static final int ENERGY_DECREASE = 10;
+    private static final int ENERGY_DECREASE = 15;
     private static final int HAPPINESS_INCREASE = 10;
-    private static final int HAPPINESS_DECREASE = 10;
+    private static final int HAPPINESS_DECREASE = 15;
     
     //constructor
     public Alligator(String name, int hungerLevel, int energyLevel, int happinessLevel) {
