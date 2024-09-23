@@ -1,7 +1,5 @@
 //Written by Ijaz (ID: 20112824)
 
-//Alligators require more food and lose energy faster. They cannot be trained.
-
 public class Alligator extends VirtualPet {
 
     private static final int HUNGER_DECREASE = 10;
