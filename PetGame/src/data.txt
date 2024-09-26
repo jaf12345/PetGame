@@ -1,0 +1,2 @@
+test,Cat,ginger,60,40,50
+sigh,Cat,mewo,60,40,40
